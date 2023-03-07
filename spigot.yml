@@ -35,7 +35,7 @@ settings:
     attackDamage:
       max: 2048.0
 messages:
-  whitelist: §cApenas pessoal autorizado pode entrar no momento.!
+  whitelist: §cApenas pessoal autorizado pode entrar no momento.
   unknown-command: §cComando não encontrado...
   server-full: §cServidor está cheio!
   outdated-client: §cCliente desactualizado! Por favor use {0}
