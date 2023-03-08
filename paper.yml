@@ -89,7 +89,7 @@ world-settings:
       temple: true
       village: true
       flat-bedrock: false
-    disable-teleportation-suffocation-check: false
+    disable-teleportation-suffocation-check: true
     falling-blocks-collide-with-signs: false
     allow-block-location-tab-completion: true
     all-chunks-are-slime-chunks: false
