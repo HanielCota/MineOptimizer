@@ -29,10 +29,10 @@ spawn-limits:
   ambient: 1
 chunk-gc:
   period-in-ticks: 400
-  load-threshold: 0
+  load-threshold: 400
 ticks-per:
   animal-spawns: 400
-  monster-spawns: 2
+  monster-spawns: 4
   autosave: 6000
 aliases: now-in-commands.yml
 database:
